@@ -11,8 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/EmanRadwan114/Huddle-landing-page-with-curved-sections
-- Live Site URL: https://emanradwan114.github.io/Huddle-landing-page-with-curved-sections/
+- [Live Site URL](https://emanradwan11499.github.io/Huddle-landing-page-with-curved-sections/)
 
 ### Built with
 
